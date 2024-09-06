@@ -1,3 +1,10 @@
+body {
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  
 .styled-button {
   background-color: #4CAF50
   border: non;
