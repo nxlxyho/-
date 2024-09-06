@@ -29,6 +29,7 @@ body {
 .container {
   display: flew;
   justify-content: center;
+  align-items: center;
   height: 100yh;
   flex-direction: colum;
 }
